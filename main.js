@@ -22,11 +22,12 @@ function use strict();
   function doMath() {
     var num_one = getOne();
     var num_two = getTwo();
+    
 
   if (doMath() == "/" {
     answer = num_one / num_two};
   else {
-    answer = NaN
+    answer = "0"
       };
   };
 };
